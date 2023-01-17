@@ -1,6 +1,8 @@
+package gamePong;
 import java.awt.*;
 import javax.swing.JFrame;
 import javax.swing.Timer;
+
 import java.awt.event.*;
 
 

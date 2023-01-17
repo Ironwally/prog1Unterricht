@@ -1,3 +1,4 @@
+package gamePong;
 
 
 public class Main {

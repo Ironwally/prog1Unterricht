@@ -1,3 +1,4 @@
+package gamePong;
 import java.awt.*;
 public abstract class Shape {
 
